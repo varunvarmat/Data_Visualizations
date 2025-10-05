@@ -24,6 +24,7 @@ We also analyze how the sectors have evolved over the last decade.
 
 ## Average global temperature, C02 levels, Fossil fuel emissions
 sourced from [link](https://www.data.gov.in/resource/global-average-temperature-and-atmosphere-concentration-carbon-dioxide)
+
 The data set contains the average values for temperatures CO2 levels and fossil fuel emissions
 We show the correlation of fossil fuel emissions with CO2 levels. _Go green_!
 ![Alt text](Plots/co2.png)
