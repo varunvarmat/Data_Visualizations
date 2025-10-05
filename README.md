@@ -4,7 +4,8 @@ This project does visualizes data sourced from [Data.gov.in](https://data.gov.in
 
 
 
-## Quarterly value of different sectors from 2011 to 2021**
+## Quarterly value of different sectors from 2011 to 2021
+sourced from [link](https://www.data.gov.in/resource/quarterly-estimates-gdp-current-prices-2011-12-series-2011-12-2022-23)
 
 The dataset contains quarterly values of different sectors like Agriculture, manufacturing, mining etc.
 We analyze how much each sector contributes across the quarters of the last three years
@@ -21,8 +22,8 @@ We also analyze how the sectors have evolved over the last decade.
 
 -Agriculuture shows a repetitive pattern over the years.
 
-## Average global temperature, C02 levels, Fossil fuel emissions**
-
+## Average global temperature, C02 levels, Fossil fuel emissions
+sourced from [link](https://www.data.gov.in/resource/global-average-temperature-and-atmosphere-concentration-carbon-dioxide)
 The data set contains the average values for temperatures CO2 levels and fossil fuel emissions
 We show the correlation of fossil fuel emissions with CO2 levels. _Go green_!
 ![Alt text](Plots/co2.png)
